@@ -1,2 +1,2 @@
-# uw_ds_final_project
-UW Data Science course project submission
+# Online News Popularity
+This material was submitted as final project under the UW Data Science course during summer 2015. The data set presented  contains online news popularity publishd by mashable on 2015 Jan. The dataset summarizes a heterogeneous set of features about articles published by Mashable. The goal is to identify features with more influence in predicting the online news popularity.
